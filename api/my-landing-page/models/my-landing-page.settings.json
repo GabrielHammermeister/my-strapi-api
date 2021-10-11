@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "my_landing_pages",
+  "info": {
+    "name": "my-landing-page",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "test": {
+      "type": "richtext"
+    }
+  }
+}

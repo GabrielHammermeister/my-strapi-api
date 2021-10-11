@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_development_test_components",
+  "info": {
+    "name": "testComponent",
+    "icon": "flask"
+  },
+  "options": {},
+  "attributes": {
+    "TestRichText": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
